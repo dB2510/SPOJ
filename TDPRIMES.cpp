@@ -30,7 +30,6 @@ void optimisedSieve(int n)
         } 
 } 
 
-// Driver code 
 int main() 
 { 
 	int n = 100000000; 
